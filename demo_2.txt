@@ -1,3 +1,7 @@
 creating a new file.
 following steps 6 to 8
-and checking,
+
+
+inserting a line againg.
+deleting a previous line one.
+and checking.
